@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/AbhiGodara/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiGodara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AbhiGodara/DSA/tree/master/0205-isomorphic-strings) |
+| [0686-repeated-string-match](https://github.com/AbhiGodara/DSA/tree/master/0686-repeated-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhiGodara/DSA/tree/master/0013-roman-to-integer) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/AbhiGodara/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
