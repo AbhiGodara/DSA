@@ -18,8 +18,8 @@ public:
             if(result>INT_MAX) return (negate)?INT_MIN:INT_MAX;
         }
         if(negate) result=-1*result;
-        if(result>2147483647) result=2147483647;
-        else if(result<-2147483648) result=-2147483648;
+        // if(result>2147483647) result=2147483647;
+        // else if(result<-2147483648) result=-2147483648;
         return result;
     }
 };
