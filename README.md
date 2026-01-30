@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbhiGodara/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AbhiGodara/DSA/tree/master/0014-longest-common-prefix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhiGodara/DSA/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
