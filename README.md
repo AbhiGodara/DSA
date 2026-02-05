@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AbhiGodara/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AbhiGodara/DSA/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -47,5 +48,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
