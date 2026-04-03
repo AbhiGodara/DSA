@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhiGodara/DSA/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/AbhiGodara/DSA/tree/master/0371-sum-of-two-integers) |
 ## String Matching
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiGodara/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/AbhiGodara/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
