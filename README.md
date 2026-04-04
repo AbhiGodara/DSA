@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiGodara/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AbhiGodara/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiGodara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/AbhiGodara/DSA/tree/master/0371-sum-of-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiGodara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
