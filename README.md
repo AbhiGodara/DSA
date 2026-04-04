@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiGodara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhiGodara/DSA/tree/master/0242-valid-anagram) |
+| [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,9 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiGodara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
+## Greedy
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->
