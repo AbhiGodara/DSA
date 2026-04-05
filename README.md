@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/AbhiGodara/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiGodara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiGodara/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiGodara/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiGodara/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -78,9 +80,11 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiGodara/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AbhiGodara/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
