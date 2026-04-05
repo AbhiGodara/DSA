@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiGodara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiGodara/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiGodara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +75,12 @@
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/AbhiGodara/DSA/tree/master/1402-reducing-dishes) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/AbhiGodara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
